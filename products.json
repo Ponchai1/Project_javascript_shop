@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Ghost Face®",
+        "price": 139.0,
+        "image": { "fields": { "file": { "url": "/images/gf.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Demise of the Faithful chapter",
+        "price": 139.0,
+        "image": { "fields": { "file": { "url": "./images/demise.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Stranger Things Chapter",
+        "price": 209.0,
+        "image": { "fields": { "file": { "url": "./images/demo.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "The Halloween® Chapter",
+        "price": 169.0,
+        "image": { "fields": { "file": { "url": "./images/halloween.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Curtain Call Chapter",
+        "price": 139.0,
+        "image": { "fields": { "file": { "url": "./images/joke.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Leatherface™",
+        "price": 119.0,
+        "image": { "fields": { "file": { "url": "./images/leatherface.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Darkness Among Us Chapter",
+        "price": 139.0,
+        "image": { "fields": { "file": { "url": "./images/legion.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Cursed Legacy Chapter",
+        "price": 139.0,
+        "image": { "fields": { "file": { "url": "./images/oni.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "the Saw® Chapter",
+        "price": 139.0,
+        "image": { "fields": { "file": { "url": "./images/saw.jpg" } } }
+      }
+    }
+  ]
+}
